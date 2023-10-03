@@ -4,17 +4,6 @@
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-<h2> :floppy_disk: Table of Content</h2>
-
-  - [Introduction](https://github.com/NizaafDabir/Cricket_Data_Analytics/edit/main/README.md#-introduction)
-  - [Datasource](https://github.com/NizaafDabir/Cricket_Data_Analytics/edit/main/README.md#-datasource-)
-  - [Data Preprocessing](https://github.com/NizaafDabir/Cricket_Data_Analytics/edit/main/README.md#-data-preprocessing-)
-  - [Data Modelling](https://github.com/NizaafDabir/Cricket_Data_Analytics/edit/main/README.md#-data-modelling-)
-  - [Data Analysis Expression (DAX)](https://github.com/NizaafDabir/Cricket_Data_Analytics/edit/main/README.md#-data-analysis-expression-dax-)
-  - [Dashboard](https://github.com/NizaafDabir/Cricket_Data_Analytics/edit/main/README.md#-dashboard-)
-
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
 ## Introduction
 
 T20 cricket, a high-paced and entertaining format of the sport, has gained immense popularity worldwide. In this project, we will dive into the exciting world of T20 cricket through the lens of data analytics. The primary goal is to harness the power of data to gain insights into player performance, team strategies, and match outcomes.This project is created using T20 Cricket Data 2022 data from ESPN cricinfo. Power BI is used for creating Data Visualisation Dashboard for Data Analysis.
