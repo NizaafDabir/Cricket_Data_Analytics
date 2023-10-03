@@ -15,32 +15,30 @@
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-<h2>Introduction</h2>
+## Introduction
 
 T20 cricket, a high-paced and entertaining format of the sport, has gained immense popularity worldwide. In this project, we will dive into the exciting world of T20 cricket through the lens of data analytics. The primary goal is to harness the power of data to gain insights into player performance, team strategies, and match outcomes.This project is created using T20 Cricket Data 2022 data from ESPN cricinfo. Power BI is used for creating Data Visualisation Dashboard for Data Analysis.
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-<h2>Datasource</h2>
+## Datasource
 
 Dataset used in this project is the T20 Cricket World Cup 2022 Dataset From www.espncricinfo.com .
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-<h2>Data Preprocessing</h2>
-
+## Data Preprocessing
 Data Preprocessing is done after loading the Datasets using Jupyter Notebook. Data Transformation is done on all the four Datasets Match_Summary , Player_Summary , Batting_Summary and Bowling_Summary. After this Data Preprocessing the Dataset is ready for creating Dashboard out of it.
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-<h2>Data Modelling</h2>
+## Data Modelling
 
 Data Modeling is performed on all the Datasets using Power BI. Datasets are being connected to each other based on the defined primary keys of the Datasets.
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-<h2> Data Analysis Expression (DAX) </h2>
-
+## Data Analysis Expression (DAX)
 Created Measures using Data Analysis Expression (DAX) and calculated coloumns in Power BI. Measures and calculated coloumns created are as follows :
 
 - Total Runs = `SUM(t20_batting_summary[runs])`
@@ -89,7 +87,7 @@ Created Measures using Data Analysis Expression (DAX) and calculated coloumns in
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-<h2> Dashboard </h2>
+## Dashboard
 
 Dashboard is created after creating the DAX measures and calculated coloumns. For creating this Dashboard Power BI Destop is used.
 
@@ -119,7 +117,9 @@ Dashboard is created after creating the DAX measures and calculated coloumns. Fo
 | --------------- |
 ![Fast_bowlers_5](https://github.com/NizaafDabir/Cricket_Data_Analytics/assets/110449627/7cdff3bc-6e4e-4eba-ba7e-0f06babbdccf)
 
-<h2> :bulb: Reference</h2>
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+## Reference
 
 * Channel Name : codebasics
 * Link to the Project : https://www.youtube.com/watch?v=4QkYy1wANXA
