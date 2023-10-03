@@ -91,10 +91,34 @@ Dashboard is created after creating the DAX measures and calculated coloumns. Fo
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
+| Final 11 Players |
+| --------------- |
+![Final 11](https://github.com/NizaafDabir/Cricket_Data_Analytics/assets/110449627/34838d2f-283d-4834-88a9-e8f5a583cbf6)
+
+| Power Hitters / Openers |
+| --------------- |
+![Power_Hitters_1](https://github.com/NizaafDabir/Cricket_Data_Analytics/assets/110449627/b2e6eeab-7e7f-4711-bff9-469f09499873)
+
+| Anchors / Middle Order |
+| --------------- |
+![Anchors_2](https://github.com/NizaafDabir/Cricket_Data_Analytics/assets/110449627/db61aa6a-4a81-4b75-b8d0-e566787794d3)
+
+| Finishers |
+| --------------- |
+![Finishers_3](https://github.com/NizaafDabir/Cricket_Data_Analytics/assets/110449627/3dc57f36-28a7-4f11-aa0c-2d278ba1e4c7)
+
+| All Rounders |
+| --------------- |
+![All_Rounders_4](https://github.com/NizaafDabir/Cricket_Data_Analytics/assets/110449627/8a6fa4aa-25c9-44a7-bace-fdf360ac71cd)
+
+| Fast Bowlers |
+| --------------- |
+![Fast_bowlers_5](https://github.com/NizaafDabir/Cricket_Data_Analytics/assets/110449627/7cdff3bc-6e4e-4eba-ba7e-0f06babbdccf)
+
 <h2> :bulb: Reference</h2>
 
-* Channel Name : CampusX
-* Link to the Project : https://www.youtube.com/watch?v=1YoD0fg3_EM&t=987s
+* Channel Name : codebasics
+* Link to the Project : https://www.youtube.com/watch?v=4QkYy1wANXA
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nizaaf-dabir-524596203/)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NizaafDabir)
