@@ -6,30 +6,34 @@
 
 <h2> :floppy_disk: Table of Content</h2>
 
-  * [Introduction](#Introduction)
-  * [Datasource](#datasource)
+  - [Introduction](https://github.com/NizaafDabir/Cricket_Data_Analytics/edit/main/README.md#-introduction)
+  - [Datasource](https://github.com/NizaafDabir/Cricket_Data_Analytics/edit/main/README.md#-datasource-)
+  - [Data Preprocessing](https://github.com/NizaafDabir/Cricket_Data_Analytics/edit/main/README.md#-data-preprocessing-)
+  - [Data Modelling](https://github.com/NizaafDabir/Cricket_Data_Analytics/edit/main/README.md#-data-modelling-)
+  - [Data Analysis Expression (DAX)](https://github.com/NizaafDabir/Cricket_Data_Analytics/edit/main/README.md#-data-analysis-expression-dax-)
+  - [Dashboard](https://github.com/NizaafDabir/Cricket_Data_Analytics/edit/main/README.md#-dashboard-)
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-<h2> Introduction</h2>
+<h2>Introduction</h2>
 
 T20 cricket, a high-paced and entertaining format of the sport, has gained immense popularity worldwide. In this project, we will dive into the exciting world of T20 cricket through the lens of data analytics. The primary goal is to harness the power of data to gain insights into player performance, team strategies, and match outcomes.This project is created using T20 Cricket Data 2022 data from ESPN cricinfo. Power BI is used for creating Data Visualisation Dashboard for Data Analysis.
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-<h2> Datasource </h2>
+<h2>Datasource</h2>
 
 Dataset used in this project is the T20 Cricket World Cup 2022 Dataset From www.espncricinfo.com .
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-<h2> Data Preprocessing </h2>
+<h2>Data Preprocessing</h2>
 
 Data Preprocessing is done after loading the Datasets using Jupyter Notebook. Data Transformation is done on all the four Datasets Match_Summary , Player_Summary , Batting_Summary and Bowling_Summary. After this Data Preprocessing the Dataset is ready for creating Dashboard out of it.
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-<h2> Data Modelling </h2>
+<h2>Data Modelling</h2>
 
 Data Modeling is performed on all the Datasets using Power BI. Datasets are being connected to each other based on the defined primary keys of the Datasets.
 
