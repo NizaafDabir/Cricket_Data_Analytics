@@ -1,4 +1,4 @@
-# 📚 Cricket Data Analytics
+# 🏏 Cricket Data Analytics
 
 ![download](https://github.com/NizaafDabir/Cricket_Data_Analytics/assets/110449627/0be05e0b-2d15-4639-ba48-d13cf1b3c8d4)
 
